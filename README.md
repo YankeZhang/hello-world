@@ -1,3 +1,3 @@
 # hello-world
 
-This is Yanke
+This is Yanke.
